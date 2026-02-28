@@ -9,7 +9,7 @@ Notio is a CI automated LLM toolkit that gets triggered when a [Hashnode](https:
 - Simplify the article and share it in a Markdown file on GitHub.
 
 > [!TIP]
-> Read [this article](https://blog.imsadra.me/notio-hashnode-post-publication-llm-toolkit) about the development process and full potential of this CI action.
+> Read [this article](https://blog.imsadra.dev/notio-hashnode-post-publication-llm-toolkit) about the development process and full potential of this CI action.
 
 ### Setup
 Follow these steps to enable Notio for your Hashnode blog.
@@ -115,7 +115,7 @@ At the end of your workflow, don't forget to add this action usage. It simply co
 ```
 
 ### Tech Stacks
-- [PyAction](https://pyaction.imsadra.me)
+- [PyAction](https://pyaction.imsadra.dev)
 - [Hypermode](https://hypermode.com/)
 - Modus CLI
 
@@ -128,4 +128,4 @@ If you want to run this action locally, follow these steps.
 * Run `uv run pyaction run`.
 
 > [!TIP]
-> Check out [this guide](https://pyaction.imsadra.me/docs/concepts/local-running) if you need more details.
+> Check out [this guide](https://pyaction.imsadra.dev/docs/concepts/local-running) if you need more details.
